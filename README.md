@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @gb96076
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on software developer
-- 📫 How to reach me ...
+# Rent-a-Car-Management-System
+It is a semester project for Object Oriented Programming written in java. (a mini Project)
 
-<!---
-gb96076/gb96076 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Username: admin
+Password: 123
+
+NOTE: I'M NO LONGER MAINTAINING THIS REPO PLEASE USE IT ON YOUR OWN EFFORTS
